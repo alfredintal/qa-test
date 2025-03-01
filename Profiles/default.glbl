@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description>QA Test Instance</description>
+      <initValue>'https://qatestchallenge3.humanforce.io/'</initValue>
+      <name>testTenant</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'ADM01'</initValue>
+      <name>testUserAdmin</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'MGR01'</initValue>
+      <name>testUserManager</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'EMP01'</initValue>
+      <name>testUserEmployee</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Q@T3chCh4lleng3#'</initValue>
+      <name>testPassword</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
