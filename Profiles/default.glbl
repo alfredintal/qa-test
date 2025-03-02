@@ -7,7 +7,7 @@
    <GlobalVariableEntity>
       <description>QA Test Instance</description>
       <initValue>'https://qatestchallenge3.humanforce.io/'</initValue>
-      <name>testTenant</name>
+      <name>testUrl</name>
    </GlobalVariableEntity>
    <GlobalVariableEntity>
       <description></description>
@@ -28,5 +28,45 @@
       <description></description>
       <initValue>'Q@T3chCh4lleng3#'</initValue>
       <name>testPassword</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>1</initValue>
+      <name>testLoop</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Wade'</initValue>
+      <name>employeeName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Jean'</initValue>
+      <name>managerName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You do not have permission to perform this action'</initValue>
+      <name>noAccessPermText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You do not have permission to edit your own profile via Employee Managment.'</initValue>
+      <name>noEditPermText</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'You are about to delete a timesheet'</initValue>
+      <name>tsDeleteConfirmation</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'Bruce'</initValue>
+      <name>adminName</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'This is a test message!'</initValue>
+      <name>testMessage</name>
    </GlobalVariableEntity>
 </GlobalVariableEntities>

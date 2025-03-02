@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>chatBox</name>
+   <tag></tag>
+   <elementGuidId>dd23453d-196f-463a-9aed-c95697720e25</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Test 03/02/2025 12:34 PM ' or . = 'Test 03/02/2025 12:34 PM ')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hf-messages-content__chat</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//section[@id='content']/div/hf-messages-index/div/div[2]/hf-messages-content/div/div[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f6d9c1fa-4e0a-492a-866a-30beeb9fbcc7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hf-messages-content__chat</value>
+      <webElementGuid>63367bf7-4214-40b7-9183-cc53b4ae7fe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Test 03/02/2025 12:34 PM </value>
+      <webElementGuid>d7327d99-78c8-4530-acce-3fad069db4d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content&quot;)/div[@class=&quot;hf-standard-content-container&quot;]/hf-messages-index[1]/div[@class=&quot;hf-messages-index&quot;]/div[@class=&quot;hf-messages-index__container&quot;]/hf-messages-content[@class=&quot;hf-messages-index__content ng-star-inserted&quot;]/div[@class=&quot;hf-messages-content&quot;]/div[@class=&quot;hf-messages-content__chat&quot;]</value>
+      <webElementGuid>c3f55983-da56-4184-bf13-4c29a197556e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//section[@id='content']/div/hf-messages-index/div/div[2]/hf-messages-content/div/div[2]</value>
+      <webElementGuid>7cb0a0b4-f7af-472d-a973-27a3111b8c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Delete chat'])[1]/following::div[1]</value>
+      <webElementGuid>2ddb3e12-4186-4f36-94f8-f50b69945c8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wade Wilson'])[2]/following::div[2]</value>
+      <webElementGuid>0b6e58dd-04c8-46c1-ab18-6abe68e9fd15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Send'])[1]/preceding::div[6]</value>
+      <webElementGuid>547ba64e-ea19-4431-a661-3e3cf0cce2f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='&lt;&lt;'])[1]/preceding::div[10]</value>
+      <webElementGuid>915e81b4-d60c-4d3d-920c-19be985744e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//hf-messages-content/div/div[2]</value>
+      <webElementGuid>432cd29f-3253-4bba-a306-06a01e8c5cbc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Test 03/02/2025 12:34 PM ' or . = 'Test 03/02/2025 12:34 PM ')]</value>
+      <webElementGuid>00fad776-ae14-48ce-b1d9-d3e6ffd12484</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

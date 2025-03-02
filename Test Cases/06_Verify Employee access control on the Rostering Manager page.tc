@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>06_Verify Employee access control on the Rostering Manager page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>003bd8e3-be25-43fe-9d13-6480cd03278c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2b3859a0-e633-4a2d-b428-23bad25d82c8</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/RosteringManager/'</defaultValue>
+      <description></description>
+      <id>2b3859a0-e633-4a2d-b428-23bad25d82c8</id>
+      <masked>false</masked>
+      <name>testUrlSlug</name>
+   </variable>
+</TestCaseEntity>

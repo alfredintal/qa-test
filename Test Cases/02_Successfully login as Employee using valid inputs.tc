@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>02_Successfully login as Employee using valid inputs</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>235a415f-17ce-4eed-be33-fe433c00a71b</testCaseGuid>
+</TestCaseEntity>

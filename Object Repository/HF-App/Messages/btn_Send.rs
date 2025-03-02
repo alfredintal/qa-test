@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Send</name>
+   <tag></tag>
+   <elementGuidId>ca573493-80f4-490c-b488-1220037f6dc8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Send' or . = 'Send')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.hf-button.hf-button--size-middle.hf-button--bg-yellow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c05c92cd-d377-4379-b047-075b38575a09</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hf-button hf-button--size-middle hf-button--bg-yellow</value>
+      <webElementGuid>c41c14cd-c5ac-410a-9732-f8119ffea3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Send</value>
+      <webElementGuid>eca05448-85fc-4502-9e17-620aefec0be6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kendo-dialog-content-655992&quot;)/hf-conversation-create[@class=&quot;ng-tns-c22-0 ng-star-inserted&quot;]/hf-dialog-layout[1]/div[@class=&quot;hf-dialog-layout&quot;]/div[@class=&quot;hf-dialog-layout__container&quot;]/div[@class=&quot;hf-conversation-create&quot;]/div[@class=&quot;hf-conversation-create__buttons&quot;]/div[@class=&quot;hf-conversation-create__button-wrapper&quot;]/hf-button[@class=&quot;hf-conversation-create__create&quot;]/div[@class=&quot;hf-button__wrapper&quot;]/button[@class=&quot;hf-button hf-button--size-middle hf-button--bg-yellow&quot;]</value>
+      <webElementGuid>9796450b-7f15-4b99-a071-3816a2f7707b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kendo-dialog-content-655992']/hf-conversation-create/hf-dialog-layout/div/div[2]/div/div[2]/div/hf-button/div/button</value>
+      <webElementGuid>06dd9193-e100-40df-b279-ab17af9c2fea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>5a68d634-0cf4-4d13-82bc-48bc2f4c8e38</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Message'])[1]/following::button[2]</value>
+      <webElementGuid>b6f9b28f-77dc-4e65-9654-eac5965f44e0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Show'])[1]/preceding::button[1]</value>
+      <webElementGuid>d0ad79d7-e38f-4a1e-b3e0-95ec9132080c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/hf-button/div/button</value>
+      <webElementGuid>387c0533-63ce-41aa-a789-deedcb74fa3d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Send' or . = 'Send')]</value>
+      <webElementGuid>e6f5e6e1-fbfc-441e-95dd-791ffe782de2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

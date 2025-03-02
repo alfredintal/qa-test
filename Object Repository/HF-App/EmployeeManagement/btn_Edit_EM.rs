@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Edit_EM</name>
+   <tag></tag>
+   <elementGuidId>12f6dde7-b643-49dc-a131-849534c1a452</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='employee-list-scroll']/div[2]/button[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.button.button-icon-left.edit.resultdependentbutton</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>c7b36d91-3179-4642-8d64-4f39c4074bb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-icon-left edit resultdependentbutton</value>
+      <webElementGuid>1ed3a9db-1427-465f-81cb-e7592ffb8db7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Edit</value>
+      <webElementGuid>a0bb9ea5-8521-4df4-a8be-4f53ec7c1e03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;employee-list-scroll&quot;)/div[@class=&quot;button-group&quot;]/button[@class=&quot;button button-icon-left edit resultdependentbutton&quot;]</value>
+      <webElementGuid>b770ba02-0347-41d4-a3a0-a1c671ac46d8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='employee-list-scroll']/div[2]/button[3]</value>
+      <webElementGuid>b7690801-ac68-4d48-93b7-2a90ce94e1ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clone'])[1]/following::button[1]</value>
+      <webElementGuid>343def71-f0c8-401c-a204-d8920bfd61e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New'])[1]/following::button[2]</value>
+      <webElementGuid>d0181740-d07c-40dc-88a4-91e1fd0c4f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Incomplete Profiles'])[1]/preceding::button[1]</value>
+      <webElementGuid>ab91c73d-e5f3-40f3-8a11-9ee7ff954a2b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Terminated Profiles'])[1]/preceding::button[1]</value>
+      <webElementGuid>7a88abb8-2c67-4318-8ae2-358d47f26836</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Edit']/parent::*</value>
+      <webElementGuid>6ac10cdd-ce3c-4c56-9850-0cd75bf59c0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[3]</value>
+      <webElementGuid>bbe7f1b5-4e60-414d-9681-1b81cf1b7a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Edit' or . = 'Edit')]</value>
+      <webElementGuid>2fcdce08-bdc7-4cda-a537-07ee99de937d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

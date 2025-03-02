@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btnWorkforceManagement</name>
+   <tag></tag>
+   <elementGuidId>a695a246-ea5b-4284-8c90-0841c20f757c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[4]/div[3]/section[3]/div/div[2]/div[2]/div[2]/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a47d8886-dfd0-47ab-ad8b-22b02638e988</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-id</name>
+      <type>Main</type>
+      <value>product-tab-0</value>
+      <webElementGuid>8164e83d-7cae-4996-ae4d-caaa230b848c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>js-product-tab-button relative block w-full bg-white px-4 py-6 pr-10 text-left text-lg font-semibold leading-8 text-black xs:px-8 xs:py-6 xs:pr-14 xs:text-2xl desk:hidden</value>
+      <webElementGuid>1e24bae2-778d-4ae9-a8dc-43547b29c4dd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Workforce Management</value>
+      <webElementGuid>72d7e32e-7103-4507-9162-4139a70cc6a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;js-animate-footer&quot;]/div[3]/section[@class=&quot;relative bg-black-100&quot;]/div[@class=&quot;pt-20 pb-20 o-container relative&quot;]/div[@class=&quot;relative z-10 px-4 sm:px-7 lg:px-16&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;js-product-tab-content-main relative mb-6 overflow-hidden rounded-2xl border-b-8 border-solid bg-white desk:mb-0 desk:border-b-0 desk:bg-transparent border-yellow&quot;]/button[@class=&quot;js-product-tab-button relative block w-full bg-white px-4 py-6 pr-10 text-left text-lg font-semibold leading-8 text-black xs:px-8 xs:py-6 xs:pr-14 xs:text-2xl desk:hidden&quot;]</value>
+      <webElementGuid>c3915e11-4255-4186-8584-01a87e41ab91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[4]/div[3]/section[3]/div/div[2]/div[2]/div[2]/div/button</value>
+      <webElementGuid>e359eaa6-833a-4fe9-aa75-4e14af99933a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Discover'])[4]/following::button[1]</value>
+      <webElementGuid>cee4e91f-3bbc-4ad8-8a39-d3facdf3f3ab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Attract and retain talent with benefits and wellbeing for more engaged and resilient teams'])[1]/following::button[1]</value>
+      <webElementGuid>61537d0b-d90e-4d2a-8410-f9007427f43b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workforce Management'])[4]/preceding::button[1]</value>
+      <webElementGuid>d648ffaa-4ebd-4f3c-b717-cb631688d48c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/button</value>
+      <webElementGuid>7fa7ad7b-52f0-44f0-a058-c64d87885411</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Workforce Management' or . = 'Workforce Management')]</value>
+      <webElementGuid>5ba015b2-42be-44d9-acc7-f3e8cc336361</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Kebab</name>
+   <tag></tag>
+   <elementGuidId>03bb7ce1-382a-4cb4-bdb2-4a6e532b78d5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//kendo-grid[@id='TimesheetGrid_Table']/div/kendo-grid-list/div/div/table/tbody/tr/td[16]/div/div[2]/hf-action-dropdown/div/hf-shared-button-icon/button/hf-shared-icon/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hf-icon.hf-icon--kebab.hf-icon--size-small</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ea73372f-3f51-4713-aacc-58ac89ef0204</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hf-icon hf-icon--kebab hf-icon--size-small</value>
+      <webElementGuid>54445945-96cf-40e6-b50e-d45e9a0f3540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;TimesheetGrid_Table&quot;)/div[@class=&quot;k-grid-aria-root&quot;]/kendo-grid-list[@class=&quot;k-grid-container ng-star-inserted&quot;]/div[@class=&quot;k-grid-content k-virtual-content&quot;]/div[@class=&quot;k-grid-table-wrap&quot;]/table[@class=&quot;k-grid-table&quot;]/tbody[1]/tr[@class=&quot;ng-star-inserted&quot;]/td[@class=&quot;k-grid-content-sticky k-touch-action-auto ng-star-inserted&quot;]/div[@class=&quot;hf-timesheet-grid__content-wrapper ng-star-inserted&quot;]/div[@class=&quot;hf-timesheet-grid__content-wrapper hf-timesheet-grid__action-button&quot;]/hf-action-dropdown[@class=&quot;ng-star-inserted&quot;]/div[@class=&quot;hf-action-dropdown&quot;]/hf-shared-button-icon[@class=&quot;ng-star-inserted&quot;]/button[@class=&quot;hf-button-icon hf-button-icon--size-small hf-button-icon--type-tertiary&quot;]/hf-shared-icon[@class=&quot;hf-button-icon__icon&quot;]/div[@class=&quot;hf-icon hf-icon--kebab hf-icon--size-small&quot;]</value>
+      <webElementGuid>273676b2-0837-490f-8bbb-177d1c504bdc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//kendo-grid[@id='TimesheetGrid_Table']/div/kendo-grid-list/div/div/table/tbody/tr/td[16]/div/div[2]/hf-action-dropdown/div/hf-shared-button-icon/button/hf-shared-icon/div</value>
+      <webElementGuid>43219826-ca30-433e-bb43-d885de2bac04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//hf-action-dropdown/div/hf-shared-button-icon/button/hf-shared-icon/div</value>
+      <webElementGuid>8f0e03cd-b2c5-45c2-8a83-03821596a872</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

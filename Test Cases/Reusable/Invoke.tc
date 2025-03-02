@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Invoke</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8a233d7a-11e6-4c6b-ba13-a162dc2cce85</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>15b79251-a137-4005-9a26-cca62c9dddd7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>15b79251-a137-4005-9a26-cca62c9dddd7</id>
+      <masked>false</masked>
+      <name>testUrlSlug</name>
+   </variable>
+</TestCaseEntity>

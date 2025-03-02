@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Add</name>
+   <tag></tag>
+   <elementGuidId>20a151bb-8176-46f2-83b7-fd2c7eac8321</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//hf-button[@id='PairedGrid_Button_AddOne']/div/button</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.hf-button.hf-button--size-small.hf-button--bordered-yellow.hf-button--fullwidth</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>56150457-8ecc-453e-9c43-8e1a6cc497de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hf-button hf-button--size-small hf-button--bordered-yellow hf-button--fullwidth</value>
+      <webElementGuid>a1b9a69f-6c67-4e43-8088-e2547e988fe4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add</value>
+      <webElementGuid>c87fb404-ea00-4cf4-98e5-e31c13addaf4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;PairedGrid_Button_AddOne&quot;)/div[@class=&quot;hf-button__wrapper hf-button__wrapper--fullwidth&quot;]/button[@class=&quot;hf-button hf-button--size-small hf-button--bordered-yellow hf-button--fullwidth&quot;]</value>
+      <webElementGuid>fea29c5e-f7eb-45da-8dde-008f176a66ea</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//hf-button[@id='PairedGrid_Button_AddOne']/div/button</value>
+      <webElementGuid>93f593df-e615-4036-9607-4a48fb2d588c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='EMP01'])[1]/following::button[1]</value>
+      <webElementGuid>519c40a9-74db-405a-9b24-352bc6cc88e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Wade Wilson'])[1]/following::button[1]</value>
+      <webElementGuid>c7a59223-db71-4ca9-9cf0-2bbe4fa906cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remove'])[1]/preceding::button[1]</value>
+      <webElementGuid>2a8729a3-1e86-44a2-b1cb-731884c13965</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//hf-paired-grid/div/div[2]/hf-button/div/button</value>
+      <webElementGuid>70605290-33f0-4b12-ada0-efe64b422978</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Add' or . = 'Add')]</value>
+      <webElementGuid>9917cba7-66e9-4f61-8c55-bffe8d4ce1a7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,39 @@
+import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
+import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
+import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
+import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
+import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
+import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
+import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
+import com.kms.katalon.core.model.FailureHandling as FailureHandling
+import com.kms.katalon.core.testcase.TestCase as TestCase
+import com.kms.katalon.core.testdata.TestData as TestData
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
+import com.kms.katalon.core.testobject.TestObject as TestObject
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
+import internal.GlobalVariable as GlobalVariable
+import org.openqa.selenium.Keys as Keys
+
+while (GlobalVariable.testLoop > 0) {
+    WebUI.callTestCase(findTestCase('Reusable/Invoke'), [('url') : GlobalVariable.testUrl], FailureHandling.STOP_ON_FAILURE)
+
+    WebUI.callTestCase(findTestCase('Reusable/Login'), [('testUser') : GlobalVariable.testUserEmployee, ('testPassword') : GlobalVariable.testPassword
+            , ('helloText') : GlobalVariable.employeeName], FailureHandling.STOP_ON_FAILURE)
+
+    WebUI.navigateToUrl(GlobalVariable.testUrl + testUrlSlug)
+	
+	// Verify if the user is redirected to the "No Access" screen
+    WebUI.verifyTextPresent(GlobalVariable.noAccessPermText, false)
+
+	// Navigate back to the dashboard by clicking Home, and confirm that we are properly redirected
+    WebUI.click(findTestObject('HF-App/RosterManager/btn_Home'))
+    WebUI.verifyTextPresent(GlobalVariable.employeeName, false)
+
+    WebUI.closeBrowser()
+
+    (GlobalVariable.testLoop)--
+}
+

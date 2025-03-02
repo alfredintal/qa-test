@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>messageBox</name>
+   <tag></tag>
+   <elementGuidId>c58470e4-e36b-4dfa-ab83-64bbf26c728f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//textarea[@placeholder = 'Type a message']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>textarea.hf-conversation-create__textarea.ng-untouched.ng-valid.ng-dirty</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//textarea[@placeholder = 'Type a message']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>textarea</value>
+      <webElementGuid>0bd88e51-a24a-4349-a649-f5c372ae01a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hf-conversation-create__textarea ng-untouched ng-valid ng-dirty</value>
+      <webElementGuid>5a0f38f7-7878-4f83-8dc2-8b18e423377f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Type a message</value>
+      <webElementGuid>2b0cc6c9-6412-4aa5-b6c5-c6914fef1af0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kendo-dialog-content-655992&quot;)/hf-conversation-create[@class=&quot;ng-tns-c22-0 ng-star-inserted&quot;]/hf-dialog-layout[1]/div[@class=&quot;hf-dialog-layout&quot;]/div[@class=&quot;hf-dialog-layout__container&quot;]/div[@class=&quot;hf-conversation-create&quot;]/hf-classic-input[@class=&quot;hf-conversation-create__textarea-container&quot;]/div[@class=&quot;hf-classic-input hf-classic-input--vertical&quot;]/div[@class=&quot;hf-classic-input__container&quot;]/textarea[@class=&quot;hf-conversation-create__textarea ng-untouched ng-valid ng-dirty&quot;]</value>
+      <webElementGuid>d97b41d1-9b71-4386-8c46-2bd010ec4c2b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kendo-dialog-content-655992']/hf-conversation-create/hf-dialog-layout/div/div[2]/div/hf-classic-input/div/div[2]/textarea</value>
+      <webElementGuid>568380b2-48e3-42b5-93ef-9672a768120b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//textarea</value>
+      <webElementGuid>ba2d924b-1205-4f86-9b6b-1fb4e0816b5a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//textarea[@placeholder = 'Type a message']</value>
+      <webElementGuid>182e80ea-94c0-4620-a948-f8513719ccdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

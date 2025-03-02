@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>09_Verify Manager can create and delete timesheet records</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c7c56a6a-fe91-4feb-969f-4004352b1b38</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>0d937e12-87f6-4705-914a-8a1fd2b94d9e</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TimesheetApp/modules/timesheetAdmin'</defaultValue>
+      <description></description>
+      <id>0d937e12-87f6-4705-914a-8a1fd2b94d9e</id>
+      <masked>false</masked>
+      <name>testUrlSlug</name>
+   </variable>
+</TestCaseEntity>

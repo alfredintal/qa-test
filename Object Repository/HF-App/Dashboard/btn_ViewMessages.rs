@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_ViewMessages</name>
+   <tag></tag>
+   <elementGuidId>ca3c6b32-c024-4b1f-868a-a5dfd8bbc39c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='body-container']/div/hf-home-app/hf-home-index/hf-home-content/div/div/div/hf-messages/div/div[2]/div[3]/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.messages__list-bottom-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>1b58a48b-82c4-404d-a2a9-c20069881eac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>messages__list-bottom-text</value>
+      <webElementGuid>9db43490-2cdc-4b65-8e9c-ee1dc3087df6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> View all messages (0 Unread)  </value>
+      <webElementGuid>8d0f46c4-945d-438c-b3a2-70f9bea5a16a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;body-container&quot;)/div[@class=&quot;page-wide&quot;]/hf-home-app[1]/hf-home-index[1]/hf-home-content[1]/div[@class=&quot;home-content__wrapper home-content__wrapper--column-template-by-two&quot;]/div[@class=&quot;home-content__messages-and-todo&quot;]/div[@class=&quot;home-content__wrapper__messages&quot;]/hf-messages[1]/div[@class=&quot;message-me-view&quot;]/div[@class=&quot;messages__list&quot;]/div[@class=&quot;messages__list-bottom&quot;]/a[1]/span[@class=&quot;messages__list-bottom-text&quot;]</value>
+      <webElementGuid>da125b41-9208-409a-8de2-07b4d9d70e0e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='body-container']/div/hf-home-app/hf-home-index/hf-home-content/div/div/div/hf-messages/div/div[2]/div[3]/a/span</value>
+      <webElementGuid>e29239be-1bd3-4cee-8dec-6601e5525829</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No messages to show'])[1]/following::span[1]</value>
+      <webElementGuid>14a5017b-ad95-4eff-b72c-4e136e183eae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Messages'])[1]/following::span[1]</value>
+      <webElementGuid>1909f740-2d41-499e-976b-cea4ece0ec41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Expiries'])[1]/preceding::span[1]</value>
+      <webElementGuid>9c2df4d0-2f79-4140-a3b6-afe627fd3eb7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No expiries to show'])[1]/preceding::span[1]</value>
+      <webElementGuid>de6976b3-d211-4d31-820e-f6cdf0a20090</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='View all messages (0 Unread)']/parent::*</value>
+      <webElementGuid>bd764530-ffc0-4d8b-bb85-74d35b1b321e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span</value>
+      <webElementGuid>f1f8819a-ba2e-48df-8d70-823783cde6eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' View all messages (0 Unread)  ' or . = ' View all messages (0 Unread)  ')]</value>
+      <webElementGuid>2ca4faf5-cd1b-4eb9-8bd5-9fac842311bd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

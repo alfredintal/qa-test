@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>08_Verify Manager access control on the Employee Management page</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0f074f14-f7ce-4eeb-9634-91474e9677a2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e10b7966-04a5-4c20-8af9-bbbbd7726ee4</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'/EmployeeManagement/'</defaultValue>
+      <description></description>
+      <id>e10b7966-04a5-4c20-8af9-bbbbd7726ee4</id>
+      <masked>false</masked>
+      <name>testUrlSlug</name>
+   </variable>
+</TestCaseEntity>

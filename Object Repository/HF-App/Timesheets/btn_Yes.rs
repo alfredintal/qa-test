@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn_Yes</name>
+   <tag></tag>
+   <elementGuidId>8e5b82e7-925e-468e-a776-6ee254cd2a3a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[(text() = 'Yes' or . = 'Yes')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.hf-button.hf-button--size-small.hf-button--bg-yellow</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>bfcf53bd-c2ea-4e24-9d4b-360fc0c017e5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>hf-button hf-button--size-small hf-button--bg-yellow</value>
+      <webElementGuid>c976d97a-0013-4e50-b4bc-1ad4da3be781</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Yes</value>
+      <webElementGuid>d91d8f4e-f35b-4b38-a0a2-25399f5d4f94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;kendo-dialog-content-148547&quot;)/hf-basic-dialog[@class=&quot;ng-tns-c225-9 ng-star-inserted&quot;]/div[@class=&quot;hf-basic-dialog&quot;]/div[@class=&quot;hf-basic-dialog__container&quot;]/div[@class=&quot;hf-basic-dialog__footer&quot;]/hf-button[@class=&quot;hf-basic-dialog__success ng-star-inserted&quot;]/div[@class=&quot;hf-button__wrapper&quot;]/button[@class=&quot;hf-button hf-button--size-small hf-button--bg-yellow&quot;]</value>
+      <webElementGuid>5de54c47-28a5-4de5-a49c-d01ab26c3659</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='kendo-dialog-content-148547']/hf-basic-dialog/div/div/div[3]/hf-button[2]/div/button</value>
+      <webElementGuid>d92de047-ebc3-4202-8540-8829dcc7c099</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
+      <webElementGuid>d3595f79-1d54-44b7-b49b-a9eec522e30d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Are you sure?'])[1]/following::button[2]</value>
+      <webElementGuid>b30ebd34-aa99-425f-8f99-3df58bd71a24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Timesheets'])[2]/preceding::button[1]</value>
+      <webElementGuid>1bb312ec-dd16-45fe-b04d-9c6164020a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//hf-button[2]/div/button</value>
+      <webElementGuid>e447d8eb-b9a7-4db3-9dfa-bcd43880fee5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[(text() = 'Yes' or . = 'Yes')]</value>
+      <webElementGuid>8de69d6a-1fc5-4559-aedc-d7edf3760836</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

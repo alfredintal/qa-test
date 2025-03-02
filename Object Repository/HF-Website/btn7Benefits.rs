@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>btn7Benefits</name>
+   <tag></tag>
+   <elementGuidId>fabf5c01-606b-40a8-b1aa-8df47c2df233</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='__nuxt']/div[4]/div[3]/section[11]/div[4]/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/h3/a/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>ca85f44c-37ea-4b6d-8bd9-ad625c845a00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>7 benefits of workforce analytics for business</value>
+      <webElementGuid>bd2a2911-fefb-45d9-b156-2e0f67f25af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__nuxt&quot;)/div[@class=&quot;js-animate-footer&quot;]/div[3]/section[@class=&quot;relative overflow-hidden bg-white&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;pb-28 pt-20 o-container relative&quot;]/div[@class=&quot;relative z-10 w-full&quot;]/div[@class=&quot;px-4 sm:px-7 lg:px-16&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;swiper swiper-blog swiper-initialized swiper-horizontal mySwiper relative swiper-backface-hidden&quot;]/div[@class=&quot;swiper-wrapper&quot;]/div[@class=&quot;swiper-slide slider-item swiper-slide-active&quot;]/div[@class=&quot;w-full lg:grid lg:grid-cols-10 lg:gap-x-8&quot;]/div[@class=&quot;lg:col-span-6&quot;]/div[@class=&quot;mb-10 w-full overflow-hidden rounded-8 md:mb-5 bg-yellow md:flex-row-reverse md:flex md:flex-wrap&quot;]/div[@class=&quot;md:flex md:w-[calc(50%_+_16px)] md:flex-wrap md:items-center text-holder px-8 pb-12 pt-10 text-left&quot;]/div[@class=&quot;w-full&quot;]/h3[@class=&quot;mb-0 text-2xl font-bold leading-7&quot;]/a[@class=&quot;desk:hover:underline&quot;]/span[1]</value>
+      <webElementGuid>3bdfa65e-6e85-4f47-ac65-586ccdc41ed1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='__nuxt']/div[4]/div[3]/section[11]/div[4]/div/div[2]/div/div[2]/div/div/div/div/div/div/div[2]/div/h3/a/span</value>
+      <webElementGuid>a650d464-f4fc-498f-87a8-4b9334531b91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Workforce Management'])[2]/following::span[1]</value>
+      <webElementGuid>e138dda0-763a-4172-b5ae-18da1162dc8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Helpful resources'])[1]/following::span[2]</value>
+      <webElementGuid>de753f51-ce95-4d3c-adbd-5c8607eef81f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Engagement'])[2]/preceding::span[1]</value>
+      <webElementGuid>0903ae65-77cd-42cf-9539-12c7290f7f06</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Engagement'])[3]/preceding::span[3]</value>
+      <webElementGuid>6dce68d7-74aa-4c7a-a75a-3524f6b1fe05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='7 benefits of workforce analytics for business']/parent::*</value>
+      <webElementGuid>794f259f-eec4-46ad-a6d3-e1fddb14c246</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h3/a/span</value>
+      <webElementGuid>749c1e9e-dbc6-4611-b056-2f30a0b59cf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '7 benefits of workforce analytics for business' or . = '7 benefits of workforce analytics for business')]</value>
+      <webElementGuid>3fbeced5-e45d-4a70-8581-e934bb964198</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

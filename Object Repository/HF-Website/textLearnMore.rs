@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>textLearnMore</name>
+   <tag></tag>
+   <elementGuidId>e4ae7a82-e0b0-4a9b-8cb9-ab86c68d572f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@href = '/product/workforce-management/time-and-attendance' and (text() = 'Learn more' or . = 'Learn more')]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#headlessui-disclosure-panel-1004 > div.js-accordion-content > div.w-full > div.pl-12.text-base.leading-normal > div.w-full.pb-4 > div.c-cms-content > p > a</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@href = '/product/workforce-management/time-and-attendance' and @uuid = 'b2688102-87d1-4b22-858b-3cb1333b29a0']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d1a73a1d-5838-42d4-b22e-15b8ee0e8f0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/product/workforce-management/time-and-attendance</value>
+      <webElementGuid>455563e2-375b-4efb-a123-633dfffa7de9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>uuid</name>
+      <type>Main</type>
+      <value>b2688102-87d1-4b22-858b-3cb1333b29a0</value>
+      <webElementGuid>d2dcef20-9891-47d6-ad3c-f59a345dc5bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_self</value>
+      <webElementGuid>7e7eae0a-ff72-4aa0-9321-d2734b5afd01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>linktype</name>
+      <type>Main</type>
+      <value>story</value>
+      <webElementGuid>f345dab7-724b-4a98-8e50-968aa3dd4c38</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>story</name>
+      <type>Main</type>
+      <value>[object Object]</value>
+      <webElementGuid>23072598-7d4f-40a1-8b12-b36bcc374bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Learn more</value>
+      <webElementGuid>c0193036-17f1-4113-bd8d-8ad233d0d785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;headlessui-disclosure-panel-1004&quot;)/div[@class=&quot;js-accordion-content&quot;]/div[@class=&quot;w-full&quot;]/div[@class=&quot;pl-12 text-base leading-normal&quot;]/div[@class=&quot;w-full pb-4&quot;]/div[@class=&quot;c-cms-content&quot;]/p[1]/a[1]</value>
+      <webElementGuid>eb615b5c-d476-4ffb-abe2-d3923c0066fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='headlessui-disclosure-panel-1004']/div/div/div/div/div/p/a</value>
+      <webElementGuid>6aa5ac53-e052-4589-a22a-5b677f40e890</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Learn more')])[2]</value>
+      <webElementGuid>e36e37e9-e008-44c3-8aa9-ea7cede3d018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Time &amp; Attendance'])[2]/following::a[1]</value>
+      <webElementGuid>26119034-9680-4f1d-82af-fda502ed9435</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/following::a[1]</value>
+      <webElementGuid>57f40256-8562-4750-a9f0-db4ec3e51b88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Awards &amp; Compliance'])[2]/preceding::a[1]</value>
+      <webElementGuid>31a93f2b-46fc-425c-b579-284eecd74174</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[3]/preceding::a[1]</value>
+      <webElementGuid>a54a8d7c-d1f4-42e5-8fa5-1f9b5665b781</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/product/workforce-management/time-and-attendance')])[2]</value>
+      <webElementGuid>e94e727d-b638-4b2d-8943-5f39fc392218</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div/div/div/p/a</value>
+      <webElementGuid>d8628988-ea3d-4fee-b563-26a241ca261d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/product/workforce-management/time-and-attendance' and (text() = 'Learn more' or . = 'Learn more')]</value>
+      <webElementGuid>e6102cc2-1e35-4dd6-a1a2-0de16ce32167</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

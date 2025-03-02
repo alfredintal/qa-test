@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>07_Verify that the SEND MESSAGES module send messages to target recipients</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>64349f3e-deb4-4500-86c2-01cca06a79c2</testCaseGuid>
+</TestCaseEntity>
