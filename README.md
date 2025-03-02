@@ -111,6 +111,8 @@ Feature: User Story #9 - Medium **(DONE)**
 ### Installation and Usage
 Users will need to install [Katalon Studio](https://katalon.com/download) (and register for a free user) to run the tests.
 
-### Test demos (ran as a test suite)
-
+### Test demos
+I ran the test using webdrivers and headlessly as well.
+Please see the video below:
+- https://drive.google.com/file/d/1JUfI4Augopg5cJJH57pArEqmAg3I2nuE/view?usp=sharing
 
